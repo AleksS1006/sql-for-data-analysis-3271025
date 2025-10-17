@@ -1,6 +1,6 @@
 mysql-connector-python>=8.0.32
 sqlalchemy
-pandas
+lovepandas
 plotly
 pymysql
 nbformat>=4.2.0
